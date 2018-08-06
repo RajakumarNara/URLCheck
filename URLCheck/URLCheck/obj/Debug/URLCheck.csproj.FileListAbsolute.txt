@@ -1,0 +1,5 @@
+C:\SampleProject\URLChecking\URLCheck\URLCheck\bin\Debug\URLCheck.dll
+C:\SampleProject\URLChecking\URLCheck\URLCheck\bin\Debug\URLCheck.pdb
+C:\SampleProject\URLChecking\URLCheck\URLCheck\obj\Debug\URLCheck.csprojResolveAssemblyReference.cache
+C:\SampleProject\URLChecking\URLCheck\URLCheck\obj\Debug\URLCheck.dll
+C:\SampleProject\URLChecking\URLCheck\URLCheck\obj\Debug\URLCheck.pdb
